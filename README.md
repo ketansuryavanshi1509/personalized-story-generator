@@ -15,20 +15,12 @@ An NLP-powered application that generates **customized, age-appropriate children
 - 📄 Download generated story as PDF or TXT
 - 🎨 Simple, interactive Streamlit UI
 
----
-
-## 🖥️ Demo Screenshot
-
-> *(Add your own screenshot and update the image path)*  
-![Screenshot](screenshot.png)
-
----
 
 ## 📦 Installation
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/personalized-story-generator.git
+git clone https://github.com/ketansuryavanshi1509/personalized-story-generator.git
 cd personalized-story-generator
 ````
 
@@ -98,7 +90,7 @@ streamlit run app.py
 
 ## 📄 License
 
-MIT License © 2025 — [Your Name](https://github.com/your-username)
+MIT License © 2025 — KETAN SURYAVANSHI(https://github.com/ketansuryavanshi1509)
 
 ---
 
